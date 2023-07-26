@@ -1,0 +1,120 @@
+style.css
+
+*{
+    margin: 3px;
+    padding: 3px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.outerRectangle {
+    display: flex; /*Set the display value to flex. So that the divs can be arranged in a row */
+    width: 99%; /* Set the width of the rectangle */
+    height: 640px;/* Set the height of the rectangle */
+    border: 5px solid black; /* Set the border style */
+  }
+
+  .brownOne{
+    margin: 5px;
+    padding-left: 10px;
+    width: 23%;
+    height: 620px;
+    background-color: rgb(203, 100, 100);
+    border: 5px solid black;
+  }
+
+
+  .redOne{
+    width: 87%;
+    height: 325px;
+    margin: 5px;
+    padding-left:10px;
+    padding-bottom: 10px;
+    background-color: rgb(233, 64, 64);
+    border: 5px solid black;
+  }
+
+  .blueOne{
+    width: 87%;
+    height: 250px;
+    margin: 5px;
+    padding-left:10px;
+    background-color: rgb(64, 64, 233);
+    border: 5px solid black;
+  }
+
+
+
+  .yellowOne{
+    width: 57%;
+    height: 605px;
+    padding: 8px;
+    margin: 5px;
+    padding-left: 35px;
+    background-color: rgb(233, 233, 64);
+    border: 5px solid black;
+  }
+
+
+  .yellowTwo{
+    width: 92%;
+    padding: 2px;
+    height: 580px;
+    padding-left: 10px;
+    margin: 5px;
+    background-color: rgb(233, 233, 64);
+    border: 5px solid black;
+  }
+
+  .blackOne{
+    width: 94%;
+    height: 190px;
+    margin: 5px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    background-color: rgb(0, 0, 0);
+    border: 5px solid black;
+  }
+
+  .blackTwo{
+    width: 94%;
+    height: 330px;
+    margin: 5px;
+    padding-left: 10px;
+    background-color: rgb(0, 0, 0);
+    border: 5px solid black;    
+  }
+
+
+
+
+
+
+  .brownTwo{
+    margin: 5px;
+    padding-left: 10px;
+    width: 23%;
+    height: 620px;
+    background-color: rgb(203, 100, 100);
+    border: 5px solid black;
+  }
+
+
+  .redTwo{
+    width: 87%;
+    height: 325px;
+    margin: 5px;
+    padding-bottom: 10px;
+    padding-left:10px;
+    background-color: rgb(233, 64, 64);
+    border: 5px solid black;
+  }
+
+  .blueTwo{
+    width: 87%;
+    height: 250px;
+    margin: 5px;
+    padding-left:10px;
+    background-color: rgb(64, 64, 233);
+    border: 5px solid black;
+  }
